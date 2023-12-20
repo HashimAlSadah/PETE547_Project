@@ -1,4 +1,4 @@
-# MX-Project
+# PETE547-Project 
 
 Welocme to this repository.
 This README file will serve as a test for whether or not we can access this github repository from our local machines.
