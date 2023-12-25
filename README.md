@@ -1,10 +1,3 @@
 # PETE547-Project 
 
-Welocme to this repository.
-This README file will serve as a test for whether or not we can access this github repository from our local machines.
-You need to clone this repository on your computer and write you name bleow and push the changes to git hub.
-
-## Group Members 
-1. Hashim Salman Al-Sadah. 201578370
-2. Hussain Alsinan 202205120
-3. Abdulwahab Alghamdi. 201734070
+Due to the rapid growth in the applications of machine learning and deep learning in various scientific and industrial sectors, researchers are becoming more invested in harnessing the power of deep neural network in scientific computing and the modelling and simulation of dynamical systems. To simulate or predict the behavior of a certain system, we need to solve or approximate the solution of one or more partial differential equations (PDEs). Physics Informed Neural Networks (PINNs) is deep learning technique, which enforce the physical laws involved in the problem by incorporating the governing physical equations, which consist of the PDEs along with their boundary and initial conditions. PINN can be used to overcome the difficulties faced by classical methods such as approximating the solution high dimensional PDEs and complex mesh generation. In this project, we simulate the behavior of an incompressible fluid in the two dimensional lid-driven cavity problem using physical informed neural networks and compare the acquired approximation against the approximated solution obtained by the finite difference method (FDM).
